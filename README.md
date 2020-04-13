@@ -14,7 +14,7 @@ However, being the passionate noobs that we were, we took it as a challenge and 
 - The main objective is to navigate to the end of the maze within one and a quarter minutes exactly!
 
 ## Challenges
-Because borland c++ does not support multi-threading, the code was very linear. Multiple for loops and function calls one after the other.
+Because borland c++ does not support multi-threading, the code was very linear. There are multiple for loops and function calls one after the other. Basically, a nightmare to read and understand.
 The trick was to make so many things happen one after the other in such a way that figuring out the pattern of moving objects and obstacles
 was *not easy*.
 > Multi threading, in simple terms refers to running multiple processes simultaneously.
