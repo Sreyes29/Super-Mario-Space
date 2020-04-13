@@ -21,7 +21,7 @@ was *not easy*.
 
 ## Extras
 As to why we called this game Super Mario Space, I have no idea whatsoever. Literally making and animating the movements of a mario character
-was too hard, so we ended up having a small circle as Mario. Probably stuck with the same name because it sounded appealing to play (we didn't care about no copyright back then).
+was too hard, so we ended up having a small circle as Mario. Probably stuck with the same name because it sounded appealing to play (we didn't care about any copyright back then).
 
 **Just to confirm once again, this game is in no way related to the official Mario franchise and games released by Nintendo.**
 
