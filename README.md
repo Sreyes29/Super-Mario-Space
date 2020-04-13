@@ -7,6 +7,9 @@ decided to incorporate all those retro ideas in a game.
 Over the course of 11th grade, we decided to develop this game using a barebones Turbo C++ compiler and ~graphics.h~ primitive graphics.
 However, being the passionate noobs that we were, we took it as a challenge and decided to see how much we could actually do with borland c++.
 
+## Setup
+To run this game, open the .cpp file with [Turbo C++](https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/). 
+
 ## Rules
 - The rules of the game are pretty straightforward.
 - W, A, S and D keys are for moving front, left, back and right respectively.
