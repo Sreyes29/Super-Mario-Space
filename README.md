@@ -2,7 +2,8 @@
 A space-maze game developed in borland C++ with primitive graphics.  
 
 ## Images
-https://imgur.com/a/mWZuQ2V
+<img src = "https://user-images.githubusercontent.com/62797899/112096623-a8fdfa80-8bc4-11eb-9dc0-fa759910e747.png" width = "600">
+<img src = "https://user-images.githubusercontent.com/62797899/112096677-c5019c00-8bc4-11eb-9179-1912ec5f6034.png" width = "600">
 
 ## A Little History
 Ever played arcade games with moving objects, flashing colors and a character that you control with a joystick? My friend and I
