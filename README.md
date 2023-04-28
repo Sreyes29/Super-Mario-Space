@@ -9,7 +9,7 @@ A space-maze game developed in borland C++ with primitive graphics.
 Ever played arcade games with moving objects, flashing colors and a character that you control with a joystick? My friend and I
 decided to incorporate all those retro ideas in a game.
 Over the course of 11th grade, we decided to develop this game using a barebones Turbo C++ compiler and ~graphics.h~ primitive graphics.
-Taking it as a challenge, we decided to see how much we could actually do with borland c++.
+Taking it as a challenge, we decided to see how much we could actually do with borland C++.
 
 ## Setup
 To run this game, open the .cpp file with [Turbo C++](https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/). 
